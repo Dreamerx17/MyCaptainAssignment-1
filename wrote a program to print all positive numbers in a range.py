@@ -15,9 +15,10 @@ list2=[]
 for num in list1:
     if(num>=0):
         list2.append(num)
-print(list2) 
+print(list2)
 
- """
- otput
- [12, 14, 3]
+"""
+output
+[12, 14, 3]
   """
+
